@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to SETaP2026 documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is an example of documentation. It coveres themes such as:
+* Requirements
+* Design
+* Implementation
+* Testing
+* Maintenance
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,5 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   requirements
+   design
+   implementation
+   testing
+   maintenance
