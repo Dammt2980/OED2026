@@ -2,6 +2,7 @@ SETaP2026 Code Documentation Template
 ====================================================
 
 This is an example of documentation. It coveres themes such as:
+
 - Requirements
 - Design
 - Implementation
